@@ -27270,7 +27270,8 @@ function Game() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _showGuessDefault.default), {
-                guesses: guesses
+                guesses: guesses,
+                answer: answer
             }, void 0, false, {
                 fileName: "src/components/Game/Game.js",
                 lineNumber: 23,
@@ -27280,7 +27281,7 @@ function Game() {
                 addGuess: addGuess
             }, void 0, false, {
                 fileName: "src/components/Game/Game.js",
-                lineNumber: 24,
+                lineNumber: 27,
                 columnNumber: 4
             }, this)
         ]
@@ -27648,11 +27649,12 @@ var _constants = require("../../constants");
 var _utils = require("../../utils");
 var _guess = require("../Guess");
 var _guessDefault = parcelHelpers.interopDefault(_guess);
-function ShowGuess({ guesses }) {
+function ShowGuess({ guesses, answer }) {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "guess-results",
         children: (0, _utils.range)((0, _constants.NUM_OF_GUESSES_ALLOWED)).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _guessDefault.default), {
-                value: guesses[num]?.guess || "" || guesses[num]?.[0]
+                value: guesses[num]?.guess || "" || guesses[num]?.[0],
+                answer: answer
             }, num, false, {
                 fileName: "src/components/ShowGuess/ShowGuess.js",
                 lineNumber: 12,
@@ -27674,7 +27676,13 @@ $RefreshReg$(_c, "ShowGuess");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../Guess":"lokSL","../../constants":"3huJa","../../utils":"en4he"}],"lokSL":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../constants":"3huJa","../../utils":"en4he","../Guess":"lokSL","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"3huJa":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "NUM_OF_GUESSES_ALLOWED", ()=>NUM_OF_GUESSES_ALLOWED);
+const NUM_OF_GUESSES_ALLOWED = 6;
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"lokSL":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "default", ()=>(0, _guessDefault.default));
@@ -27696,22 +27704,21 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _utils = require("../../utils");
 var _gameHelpers = require("../../game-helpers");
-imp;
 function Guess({ value, answer }) {
     const result = (0, _gameHelpers.checkGuess)(value, answer);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
         className: "guess",
         children: (0, _utils.range)(5).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                className: "cell",
+                className: result.status,
                 children: value ? value[num] : undefined
             }, num, false, {
                 fileName: "src/components/Guess/Guess.js",
-                lineNumber: 12,
+                lineNumber: 11,
                 columnNumber: 5
             }, this))
     }, void 0, false, {
         fileName: "src/components/Guess/Guess.js",
-        lineNumber: 10,
+        lineNumber: 9,
         columnNumber: 3
     }, this);
 }
@@ -27725,7 +27732,7 @@ $RefreshReg$(_c, "Guess");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../utils":"en4he","../../game-helpers":"dWwK5"}],"dWwK5":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../utils":"en4he","../../game-helpers":"dWwK5","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"dWwK5":[function(require,module,exports) {
 /**
  * Thanks to Github user dylano for supplying a more-accurate
  * solving algorithm!
@@ -27766,12 +27773,6 @@ function checkGuess(guess, answer) {
     }
     return result;
 }
-
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"3huJa":[function(require,module,exports) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "NUM_OF_GUESSES_ALLOWED", ()=>NUM_OF_GUESSES_ALLOWED);
-const NUM_OF_GUESSES_ALLOWED = 6;
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"cxSZo":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");

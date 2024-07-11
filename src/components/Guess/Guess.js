@@ -10,7 +10,7 @@ function Guess({ value, answer }) {
 			{range(5).map((num) => (
 				<span
 					key={num}
-					className="cell"
+					className={result.status}
 				>
 					{value ? value[num] : undefined}
 				</span>

@@ -1,24 +1,53 @@
-18739
-72/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects1720701198400151875 1
-69/home/maikel-mattiu/Documents/project-wordle/src/components/.git/HEAD1720701198398151755 0
+18805
+72/home/maikel-mattiu/Documents/project-wordle/dist/index.497dfdab.css.map1720720134721725077 0
+60/home/maikel-mattiu/Documents/project-wordle/dist/index.html1720720134711724722 0
+68/home/maikel-mattiu/Documents/project-wordle/dist/index.4d663569.css1720720134711724722 0
+56/home/maikel-mattiu/Documents/project-wordle/src/data.js1720647217499275586 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/Header/index.js1720647217499275586 0
+66/home/maikel-mattiu/Documents/project-wordle/src/components/Header1720647217499275586 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/aa1720719305841380452 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/a3/d54c5d3b79131c37fb7dc81506126c4fda1d431720719305955384453 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/a31720719305959384594 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/af1720719305824379855 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/371720719305837380312 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/44/931e31b8e55bf7fd911ec03befa7394409872d1720719305963384734 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/c31720719305839380382 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/6c1720719305960384629 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/f3/20e882a770817a9ad0f743bcb0446ab9555d1d1720719305963384734 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/f31720719305963384734 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/24/60f32f2732556b9de8bd71e721e0d193292eba1720719837869175219 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/241720719837869175219 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/d2/449348dc60dc4d26b2e3c196f1264b15700a9e1720719837840174190 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/12/0b1b9a48fa2b298ab5e99b42cc2339ac2211a11720719305961384664 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/7d/7b03aca36eefad8a555b85def8ccb148c468961720719305830380066 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/7d1720719305831380101 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/f7/39414b03f5213b99f5b2a22b797383b8c1f5e31720719305820379715 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/f71720719305820379715 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/b91720719305819379680 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/001720719305964384769 1
+77/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/pack1720701198400151875 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/80/bba725ae2f1e587d975a5bc95bd2e6cbe7148b1720719837905176497 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/e11720719305820379715 1
+77/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/info1720701198400151875 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/411720719837866175113 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/04/5cd8187af7a682edc6a2021da5b1a12d4c82741720719305824379855 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/041720719305829380031 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/f61720719837868175184 1
+72/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects1720720128414500663 1
+74/home/maikel-mattiu/Documents/project-wordle/src/components/.git/logs/refs1720719305970384980 1
 74/home/maikel-mattiu/Documents/project-wordle/src/components/.git/refs/tags1720701198398151755 1
 88/home/maikel-mattiu/Documents/project-wordle/src/components/.git/hooks/commit-msg.sample1720701198394151517 0
 92/home/maikel-mattiu/Documents/project-wordle/src/components/.git/hooks/pre-applypatch.sample1720701198394151517 0
 89/home/maikel-mattiu/Documents/project-wordle/src/components/.git/hooks/post-update.sample1720701198392151397 0
 92/home/maikel-mattiu/Documents/project-wordle/src/components/.git/hooks/applypatch-msg.sample1720701198392151397 0
 89/home/maikel-mattiu/Documents/project-wordle/src/components/.git/hooks/pre-receive.sample1720701198391151338 0
-64/home/maikel-mattiu/Documents/project-wordle/src/components/.git1720701198383150860 1
-72/home/maikel-mattiu/Documents/project-wordle/dist/index.497dfdab.css.map1720692919750158358 0
-60/home/maikel-mattiu/Documents/project-wordle/dist/index.html1720692919739157926 0
-68/home/maikel-mattiu/Documents/project-wordle/dist/index.4d663569.css1720692919739157926 0
-56/home/maikel-mattiu/Documents/project-wordle/src/data.js1720647217499275586 0
-75/home/maikel-mattiu/Documents/project-wordle/src/components/Header/index.js1720647217499275586 0
-66/home/maikel-mattiu/Documents/project-wordle/src/components/Header1720647217499275586 1
+69/home/maikel-mattiu/Documents/project-wordle/src/components/.git/HEAD1720701198398151755 0
+64/home/maikel-mattiu/Documents/project-wordle/src/components/.git1720719837906176533 1
 79/home/maikel-mattiu/Documents/project-wordle/src/components/GuessInput/index.js1720684985283979553 0
 84/home/maikel-mattiu/Documents/project-wordle/src/components/GuessInput/GuessInput.js1720702443197570482 0
 70/home/maikel-mattiu/Documents/project-wordle/src/components/GuessInput1720684985277979261 1
 63/home/maikel-mattiu/Documents/project-wordle/src/components/App1720647217498275521 1
-59/home/maikel-mattiu/Documents/project-wordle/src/components1720692455693494501 1
+59/home/maikel-mattiu/Documents/project-wordle/src/components1720715032656704089 1
 57/home/maikel-mattiu/Documents/project-wordle/src/index.js1720647217499275586 0
 61/home/maikel-mattiu/Documents/project-wordle/src/constants.js1720647217499275586 0
 51/home/maikel-mattiu/Documents/project-wordle/public1720647217497275456 1
@@ -65,7 +94,7 @@
 99/home/maikel-mattiu/Documents/project-wordle/node_modules/wrap-ansi/node_modules/ansi-regex/license1719306620000999000 0
 101/home/maikel-mattiu/Documents/project-wordle/node_modules/wrap-ansi/node_modules/ansi-regex/readme.md1719306620000999000 0
 80/home/maikel-mattiu/Documents/project-wordle/node_modules/wrap-ansi/node_modules1720682257137605664 1
-67/home/maikel-mattiu/Documents/project-wordle/dist/index.975ef6c8.js1720692919841161927 0
+67/home/maikel-mattiu/Documents/project-wordle/dist/index.975ef6c8.js1720720134791727568 0
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/loose-envify/loose-envify.js1719237005785000000 0
 81/home/maikel-mattiu/Documents/project-wordle/node_modules/loose-envify/replace.js1719237005785000000 0
 80/home/maikel-mattiu/Documents/project-wordle/node_modules/loose-envify/custom.js1719237005785000000 0
@@ -108,6 +137,7 @@
 96/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/ValidateTypedArray.js1719237016558000000 0
 106/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/IsArrayBufferViewOutOfBounds.js1719237016558000000 0
 85/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/ToInt16.js1719237016558000000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/aa/302c30fe8782cd384f80b78a1c49c9eda4ae831720719305841380452 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/CloneArrayBuffer.js1719237016558000000 0
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/CreateHTML.js1719237016558000000 0
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/NewPromiseCapability.js1719237016558000000 0
@@ -393,6 +423,7 @@
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2023/Number/remainder.js1719237016558000000 0
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2023/Number/exponentiate.js1719237016558000000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2023/Number/equal.js1719237016558000000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/e1/46d6a08c151773a2ef9f0c11f7be2c839b19751720719305820379715 0
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2023/Number/divide.js1719237016558000000 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2023/Number/bitwiseAND.js1719237016558000000 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2023/Number/unaryMinus.js1719237016558000000 0
@@ -539,6 +570,7 @@
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/YearFromTime.js1719237016558000000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/GetPrototypeFromConstructor.js1719237016558000000 0
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/MonthFromTime.js1719237016558000000 0
+87/home/maikel-mattiu/Documents/project-wordle/src/components/.git/logs/refs/heads/master1720719837906176533 0
 102/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/IntegerIndexedElementSet.js1719237016558000000 0
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/CreateMethodProperty.js1719237016558000000 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/DetachArrayBuffer.js1719237016558000000 0
@@ -694,7 +726,7 @@
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2016/thisTimeValue.js1719237016558000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2016/IteratorComplete.js1719237016558000000 0
 106/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2016/AbstractRelationalComparison.js1719237016558000000 0
-49/home/maikel-mattiu/Documents/project-wordle/dist1720692919704156553 1
+49/home/maikel-mattiu/Documents/project-wordle/dist1720720134665723085 1
 87/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2016/IsInteger.js1719237016558000000 0
 100/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2016/OrdinarySetPrototypeOf.js1719237016558000000 0
 96/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2016/TestIntegrityLevel.js1719237016558000000 0
@@ -836,7 +868,7 @@
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/SetValueInBuffer.js1719237016558000000 0
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/IsCallable.js1719237016558000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/CompletionRecord.js1719237016558000000 0
-82/home/maikel-mattiu/Documents/project-wordle/src/components/ShowGuess/ShowGuess.js1720718076302578738 0
+82/home/maikel-mattiu/Documents/project-wordle/src/components/ShowGuess/ShowGuess.js1720719570866717631 0
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/ToString.js1719237016558000000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/IteratorStep.js1719237016558000000 0
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/IsSharedArrayBuffer.js1719237016558000000 0
@@ -911,6 +943,7 @@
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/BigInt/exponentiate.js1719237016558000000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/BigInt/equal.js1719237016558000000 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/BigInt/bitwiseAND.js1719237016558000000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/b01720719305961384664 1
 93/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/BigInt/lessThan.js1719237016558000000 0
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/BigInt/sameValueZero.js1719237016558000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/possible-typed-array-names/README.md1719237019328000000 0
@@ -946,6 +979,7 @@
 92/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/StringToNumber.js1719237016558000000 0
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/StringGetOwnProperty.js1719237016558000000 0
 100/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/AddEntriesFromIterable.js1719237016558000000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/d8/e8c984a0b048f9bdb5fd2c9e802415fab714971720719837839174155 0
 87/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/SameValue.js1719237016558000000 0
 87/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/BinaryAnd.js1719237016558000000 0
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/MakeTime.js1719237016558000000 0
@@ -1147,6 +1181,7 @@
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/lru-cache/dist/commonjs/index.min.js1720682207996000000 0
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/lru-cache/dist/esm/index.d.ts.map1720682207996000000 0
 85/home/maikel-mattiu/Documents/project-wordle/node_modules/lru-cache/dist/esm/index.js1720682207996000000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/c3/01cff08ecca0e1724150aa76d1ee9b0eb256131720719305839380382 0
 76/home/maikel-mattiu/Documents/project-wordle/node_modules/lru-cache/dist/esm1720682264214827866 1
 72/home/maikel-mattiu/Documents/project-wordle/node_modules/lru-cache/dist1720682258503866990 1
 100/home/maikel-mattiu/Documents/project-wordle/node_modules/babel-plugin-polyfill-corejs3/lib/utils.js1719306632828000000 0
@@ -1236,6 +1271,7 @@
 100/home/maikel-mattiu/Documents/project-wordle/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map1719237013473999000 0
 83/home/maikel-mattiu/Documents/project-wordle/node_modules/uri-js/dist/esnext/uri.js1719237013473999000 0
 74/home/maikel-mattiu/Documents/project-wordle/node_modules/uri-js/yarn.lock1719237013473999000 0
+82/home/maikel-mattiu/Documents/project-wordle/src/components/.git/refs/heads/master1720719837906176533 0
 74/home/maikel-mattiu/Documents/project-wordle/node_modules/uri-js/README.md1719237013473999000 0
 72/home/maikel-mattiu/Documents/project-wordle/node_modules/uri-js/LICENSE1719237013473999000 0
 96/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/CodePointsToString.js1719237016558000000 0
@@ -1428,7 +1464,7 @@
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/string-width/node_modules/ansi-regex/index.d.ts1719306620000999000 0
 96/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/IsConcatSpreadable.js1719237016558000000 0
 104/home/maikel-mattiu/Documents/project-wordle/node_modules/string-width/node_modules/ansi-regex/readme.md1719306620000999000 0
-74/home/maikel-mattiu/Documents/project-wordle/src/components/Guess/Guess.js1720719149635913649 0
+74/home/maikel-mattiu/Documents/project-wordle/src/components/Guess/Guess.js1720720058289006216 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/IsExtensible.js1719237016558000000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/IteratorStep.js1719237016558000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/string-width/node_modules/ansi-regex1720682261553234840 1
@@ -2230,6 +2266,7 @@
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint/lib/linter/code-path-analysis1720682264461698245 1
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint/lib/linter/rule-fixer.js1720647735020999000 0
 103/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint/lib/linter/apply-disable-directives.js1720647735020999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/f6/f66074556868dc31744e6294beea6da3181fd11720719837867175148 0
 80/home/maikel-mattiu/Documents/project-wordle/node_modules/has-symbols/test/shams1720682264190840461 1
 100/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint/lib/linter/config-comment-parser.js1720647735020999000 0
 84/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint/lib/linter/rules.js1720647735020999000 0
@@ -2463,6 +2500,7 @@
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/core/node_modules/semver/LICENSE1719237007549999000 0
 99/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/core/node_modules/semver/semver.js1719237007549999000 0
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/core/node_modules/semver1720682259275451785 1
+70/home/maikel-mattiu/Documents/project-wordle/src/components/.git/index1720719837870175255 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/core/node_modules/.bin/semver1720682264660593813 0
 93/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/core/node_modules/.bin/json51720682264657595387 0
 87/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/core/node_modules/.bin1720682264666590664 1
@@ -2888,7 +2926,7 @@
 115/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/README.md1719306635928999000 0
 118/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/package.json1719306635928999000 0
 113/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/LICENSE1719306635928999000 0
-65/home/maikel-mattiu/Documents/project-wordle/src/components/Guess1720715032656704089 1
+65/home/maikel-mattiu/Documents/project-wordle/src/components/Guess1720715032703709089 1
 126/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/tsconfig.tsbuildinfo1719306635928999000 0
 119/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/tsconfig.json1719306635928999000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator1720682259212485566 1
@@ -3541,9 +3579,11 @@
 83/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/code-frame/LICENSE1719237007983000000 0
 108/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint/node_modules/eslint-scope/lib/definition.js1719237011660000000 0
 110/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-syntax-class-static-block/lib/index.js1719306634690999000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/121720719305961384664 1
 110/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-syntax-class-static-block/package.json1719306634690999000 0
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint-plugin-react/lib/util/variable.js1719237015437000000 0
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/helper-hoist-variables/README.md1719237008641999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/37/d0c1b98d3431a60f43b586bfeb08bb9bbb5b5c1720719305836380276 0
 100/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/helper-hoist-variables/package.json1719237008641999000 0
 79/home/maikel-mattiu/Documents/project-wordle/node_modules/get-port/package.json1720647736335999000 0
 106/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-syntax-decorators/lib/index.js.map1719306637828000000 0
@@ -4071,6 +4111,7 @@
 93/home/maikel-mattiu/Documents/project-wordle/node_modules/string.prototype.trim/test/tests.js1719237018788000000 0
 84/home/maikel-mattiu/Documents/project-wordle/node_modules/string.prototype.trim/test1720682263068431792 1
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/string.prototype.trim/.nycrc1719237018788000000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/d21720719837840174190 1
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/string.prototype.trim/.eslintrc1719237018788000000 0
 87/home/maikel-mattiu/Documents/project-wordle/node_modules/string.prototype.trim/auto.js1719237018788000000 0
 87/home/maikel-mattiu/Documents/project-wordle/node_modules/string.prototype.trim/LICENSE1719237018788000000 0
@@ -4117,8 +4158,10 @@
 76/home/maikel-mattiu/Documents/project-wordle/node_modules/minimist/README.md1719306653825000000 0
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/minimist/test/parse_modified.js1719306653825000000 0
 80/home/maikel-mattiu/Documents/project-wordle/node_modules/minimist/test/proto.js1719306653825000000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/0f/d770f68a286719620b2bbc9a17aeb088bee9501720719837868175184 0
 87/home/maikel-mattiu/Documents/project-wordle/node_modules/minimist/test/default_bool.js1719306653825000000 0
 82/home/maikel-mattiu/Documents/project-wordle/node_modules/minimist/test/unknown.js1719306653825000000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/a51720719305968384910 1
 80/home/maikel-mattiu/Documents/project-wordle/node_modules/minimist/test/short.js1719306653825000000 0
 83/home/maikel-mattiu/Documents/project-wordle/node_modules/minimist/test/all_bool.js1719306653825000000 0
 85/home/maikel-mattiu/Documents/project-wordle/node_modules/minimist/test/stop_early.js1719306653825000000 0
@@ -4376,6 +4419,7 @@
 104/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/_/_wrap_native_super/package.json1719237523624000000 0
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/_/_wrap_native_super1720682263689104571 1
 79/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/_/_using1720682263688105098 1
+74/home/maikel-mattiu/Documents/project-wordle/src/components/.git/logs/HEAD1720719837906176533 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/_/_set_prototype_of1720682263685106679 1
 93/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/_/_object_spread_props1720682263683107733 1
 99/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/_/_to_primitive/package.json1719237523624000000 0
@@ -5966,6 +6010,7 @@
 82/home/maikel-mattiu/Documents/project-wordle/node_modules/axe-core/locales/pl.json1719306639296000000 0
 82/home/maikel-mattiu/Documents/project-wordle/node_modules/strip-ansi-cjs/readme.md1719306662180999000 0
 72/home/maikel-mattiu/Documents/project-wordle/node_modules/strip-ansi-cjs1720682261488269382 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/b9/58bf5de2caddc0eb315142b0fa5e4d4bd333ba1720719305819379680 0
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint-module-utils/pkgUp.js1719306639178999000 0
 84/home/maikel-mattiu/Documents/project-wordle/node_modules/which-collection/README.md1719237019529000000 0
 67/home/maikel-mattiu/Documents/project-wordle/node_modules/strip-bom1720682261437296485 1
@@ -6107,6 +6152,7 @@
 120/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/definition/Definition.js1719306641746000000 0
 79/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/codeframe/lib1720682261761124304 1
 110/home/maikel-mattiu/Documents/project-wordle/node_modules/tsconfig-paths/lib/__tests__/config-loader.test.d.ts1719306640124000000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/e91720719305812379434 1
 100/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/ObjectDefineProperties.js1719237016558000000 0
 124/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-for-of/lib/no-helper-implementation.js.map1719306632832999000 0
 122/home/maikel-mattiu/Documents/project-wordle/node_modules/@rushstack/eslint-patch/lib/custom-config-package-names.d.ts.map1719306620055999000 0
@@ -6417,6 +6463,7 @@
 77/home/maikel-mattiu/Documents/project-wordle/node_modules/stable/package.json1719306649674000000 0
 103/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-function-name/LICENSE1719306633957000000 0
 84/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/.eslintrc.js1720648070181999000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/FETCH_HEAD1720720128411500556 0
 74/home/maikel-mattiu/Documents/project-wordle/node_modules/stable/stable.js1719306649674000000 0
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/array.prototype.findlast/.nycrc1719237016226999000 0
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/to-fast-properties/readme.md1719237008272000000 0
@@ -8341,6 +8388,7 @@
 79/home/maikel-mattiu/Documents/project-wordle/node_modules/argparse/CHANGELOG.md1719237013881999000 0
 117/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint-plugin-flowtype/dist/rules/objectTypeCurlySpacing.js1719306620568000000 0
 114/home/maikel-mattiu/Documents/project-wordle/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/030-config.md1720682080493000000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/ce1720719305833380171 1
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/mdn-data/api/inheritance.schema.json1719306659114000000 0
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/regions/GQ.js1720647735869999000 0
 106/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint-plugin-jest/lib/rules/no-done-callback.js1719306620473000000 0
@@ -8619,6 +8667,7 @@
 100/home/maikel-mattiu/Documents/project-wordle/node_modules/react/cjs/react-jsx-runtime.development.js1720682205644999000 0
 104/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/text-size-adjust.js1720647735869999000 0
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/react-dom/umd/react-dom.profiling.min.js1720682206036000000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/761720719305813379469 1
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/TimeWithinDay.js1719237016558000000 0
 109/home/maikel-mattiu/Documents/project-wordle/node_modules/htmlnano/node_modules/cosmiconfig/dist/index.js.map1720682080497999000 0
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/regions/KG.js1720647735869999000 0
@@ -9017,6 +9066,7 @@
 127/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/lib/esnext.asynciterable.js.map1719306641746000000 0
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/regions/SK.js1720647735869999000 0
 102/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/rel-noreferrer.js1720647735869999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/b0/743b3fc7840e243937574e24f99697f32e72611720719305961384664 0
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/rimraf/dist/cjs/src/rimraf-windows.d.ts1720682206773000000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/type-utils/dist/index.js.map1719306645305999000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint-plugin-jest/docs/rules/no-jest-import.md1719306620473000000 0
@@ -9161,6 +9211,7 @@
 125/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/referencer/Reference.d.ts.map1719306641746000000 0
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/mp3.js1720647735869999000 0
 78/home/maikel-mattiu/Documents/project-wordle/node_modules/get-intrinsic/.nycrc1719237016730999000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/441720719305964384769 1
 75/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/fp/nAry.js1719306597654999000 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/runtime/helpers/toPrimitive.js1719237535796999000 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/rellist.js1720647735869999000 0
@@ -9447,7 +9498,7 @@
 70/home/maikel-mattiu/Documents/project-wordle/node_modules/react-is/cjs1720682263049441804 1
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/regions/NF.js1720647735869999000 0
 70/home/maikel-mattiu/Documents/project-wordle/node_modules/lmdb/keys.js1720647841296000000 0
-68/home/maikel-mattiu/Documents/project-wordle/dist/index.497dfdab.css1720692919738157887 0
+68/home/maikel-mattiu/Documents/project-wordle/dist/index.497dfdab.css1720720134710724686 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/@nodelib/fs.walk/out/types/index.d.ts1719237012079999000 0
 118/home/maikel-mattiu/Documents/project-wordle/node_modules/react-dom/cjs/react-dom-server-legacy.browser.development.js1720682206036000000 0
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/babel-plugin-macros/dist/index.js1719306618546000000 0
@@ -9663,7 +9714,7 @@
 104/home/maikel-mattiu/Documents/project-wordle/node_modules/json-stable-stringify-without-jsonify/index.js1719237013042000000 0
 123/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/lib/es2015.generator.js.map1719306641746000000 0
 78/home/maikel-mattiu/Documents/project-wordle/node_modules/which/bin/node-which1719237014223999000 0
-72/home/maikel-mattiu/Documents/project-wordle/dist/index.4d663569.css.map1720692919750158358 0
+72/home/maikel-mattiu/Documents/project-wordle/dist/index.4d663569.css.map1720720134721725077 0
 92/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/GetMatchString.js1719237016558000000 0
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/_/_async_generator_delegate1720682263673113002 1
 110/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/css-background-offsets.js1720647735869999000 0
@@ -9806,6 +9857,7 @@
 75/home/maikel-mattiu/Documents/project-wordle/node_modules/is-string/.github1720682262707622662 1
 114/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/lib/es2019.full.js1719306641746000000 0
 96/home/maikel-mattiu/Documents/project-wordle/node_modules/jackspeak/dist/commonjs/index.d.ts.map1720682208513999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/00/0481fa8d48487eb86c19c3f8f1a6729504c5cb1720719305964384769 0
 123/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/utils/dist/ts-eslint-scope/PatternVisitor.d.ts1719306640328999000 0
 93/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/regions/alt-oc.js1720647735869999000 0
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/object.groupby/test/shimmed.js1719306639124000000 0
@@ -10017,7 +10069,7 @@
 103/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/_/_tagged_template_literal_loose1720682263685106679 1
 104/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/css-font-stretch.js1720647735869999000 0
 117/home/maikel-mattiu/Documents/project-wordle/node_modules/glob/node_modules/minimatch/dist/esm/brace-expressions.d.ts1720682207743000000 0
-71/home/maikel-mattiu/Documents/project-wordle/dist/index.975ef6c8.js.map1720692919857162555 0
+71/home/maikel-mattiu/Documents/project-wordle/dist/index.975ef6c8.js.map1720720134802727960 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/portals.js1720647735869999000 0
 110/home/maikel-mattiu/Documents/project-wordle/node_modules/es-iterator-helpers/Iterator.prototype.every/shim.js1719237016194999000 0
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2019/MakeTime.js1719237016558000000 0
@@ -10025,6 +10077,7 @@
 147/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/typescript-estree/dist/create-program/getWatchProgramsForProjects.d.ts1719306641970000000 0
 84/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2016/ToInt8.js1719237016558000000 0
 72/home/maikel-mattiu/Documents/project-wordle/node_modules/which/which.js1719237014223999000 0
+80/home/maikel-mattiu/Documents/project-wordle/src/components/.git/logs/refs/heads1720719305970384980 1
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2020/CreateMethodProperty.js1719237016558000000 0
 136/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/eslint-plugin/docs/rules/consistent-indexed-object-style.md1719306622200999000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/aria-query/lib/etc/roles/literal/textboxRole.js1719306600099999000 0
@@ -10143,6 +10196,7 @@
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/resolve/test/resolver/mug.js1719306612081000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/tls1-3.js1720647735869999000 0
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/cosmiconfig/dist/loaders.d.ts.map1719306627207000000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/d81720719837839174155 1
 76/home/maikel-mattiu/Documents/project-wordle/node_modules/iterator.prototype1720682260779646683 1
 106/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/analyze.js1719306641746000000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/ToUint8Clamp.js1719237016558000000 0
@@ -10309,6 +10363,7 @@
 84/home/maikel-mattiu/Documents/project-wordle/node_modules/foreground-child/README.md1719306655180000000 0
 102/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/Script/Cham.js1719306662670000000 0
 107/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/requestidlecallback.js1720647735869999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/e9/f1f06cc486cf218b8c3ab2c3ae2d9e5a4e59701720719305809379329 0
 79/home/maikel-mattiu/Documents/project-wordle/node_modules/ajv/lib/dot/allOf.jst1719237010980999000 0
 110/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/document-currentscript.js1720647735869999000 0
 85/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/ToInt32.js1719237016558000000 0
@@ -10770,6 +10825,7 @@
 103/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/BigInt/unsignedRightShift.js1719237016558000000 0
 123/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-logical-assignment-operators/lib/index.js1719306636072000000 0
 99/home/maikel-mattiu/Documents/project-wordle/node_modules/lmdb/node_modules/node-addon-api/index.js1720647844038000000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/0f1720719837869175219 1
 106/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/css-default-pseudo.js1720647735869999000 0
 70/home/maikel-mattiu/Documents/project-wordle/node_modules/loose-envify1720682260808631203 1
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/core/src/assetUtils.js1720648070157999000 0
@@ -11694,7 +11750,7 @@
 92/home/maikel-mattiu/Documents/project-wordle/node_modules/array.prototype.findlast/README.md1719237016226999000 0
 118/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-private-methods/tsconfig.tsbuildinfo1719306635187000000 0
 108/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/experimental-utils/node_modules1720682264895470489 1
-44/home/maikel-mattiu/Documents/project-wordle1720692916533030577 1
+44/home/maikel-mattiu/Documents/project-wordle1720720131886624202 1
 102/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint-plugin-testing-library/utils/index.js1719306621233000000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/loading-lazy-attr.js1720647735869999000 0
 116/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/Script_Extensions/Braille.js1719306662670000000 0
@@ -12163,6 +12219,7 @@
 117/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/lib/es2018.promise.js1719306641746000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/dnssec.js1720647735869999000 0
 109/home/maikel-mattiu/Documents/project-wordle/node_modules/es-iterator-helpers/Iterator.prototype.find/shim.js1719237016194999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/f6/c2eaa91fb09d0d5fdebb60128aab2f7546021a1720719837840174190 0
 123/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/eslint-plugin/dist/util/getStringLength.js.map1719306622200999000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/TimeFromYear.js1719237016558000000 0
 126/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/eslint-plugin/dist/util/collectUnusedVariables.js1719306622200999000 0
@@ -12274,7 +12331,7 @@
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/workers/lib/backend.js1720647739444000000 0
 102/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/esm/_iterable_to_array_limit.js1719237523624000000 0
 115/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/lib/es2021.d.ts.map1719306641746000000 0
-75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/refs/heads1720701198398151755 1
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/refs/heads1720719837906176533 1
 71/home/maikel-mattiu/Documents/project-wordle/node_modules/css-tree/dist1720682262082953373 1
 83/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/fp/partialRight.js1719306597654999000 0
 66/home/maikel-mattiu/Documents/project-wordle/node_modules/prettier1720682261319359193 1
@@ -13036,6 +13093,7 @@
 99/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/IsUnsignedElementType.js1719237016558000000 0
 93/home/maikel-mattiu/Documents/project-wordle/node_modules/postcss-value-parser/lib/index.d.ts1719306619453999000 0
 93/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/optimizer-svgo/package.json1720648077130000000 0
+69/home/maikel-mattiu/Documents/project-wordle/src/components/.git/logs1720719305970384980 1
 115/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/helper-create-regexp-features-plugin/tsconfig.json1719306648911000000 0
 140/home/maikel-mattiu/Documents/project-wordle/node_modules/@rushstack/eslint-patch/lib/eslint-bulk-suppressions/cli/utils/is-correct-cwd.d.ts1719306620055999000 0
 78/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/fp/orderBy.js1719306597654999000 0
@@ -13423,12 +13481,14 @@
 76/home/maikel-mattiu/Documents/project-wordle/node_modules/object.values/test1720682262749600438 1
 116/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-unicode-regex/tsconfig.tsbuildinfo1719306634441999000 0
 121/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/lib/es2021.weakref.js.map1719306641746000000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/76/e1c62684bea851f71686653dd3f0d6374b50e61720719305813379469 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/foreground-child/dist/esm/watchdog.js1719306655180000000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/resolve/test/module_dir/xmodules1720682259035580476 1
 117/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/scope/ClassScope.d.ts1719306641746000000 0
 123/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/lib/es2015.reflect.d.ts.map1719306641746000000 0
 126/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/referencer/ClassVisitor.js.map1719306641746000000 0
 111/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/type-utils/dist/getTypeName.js.map1719306645305999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/6c/7fee46bddc1aca11ad0009db2928386644b4aa1720719305960384629 0
 102/home/maikel-mattiu/Documents/project-wordle/node_modules/aria-query/lib/etc/roles/literal/menuRole.js1719306600099999000 0
 118/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/lib/es2018.full.js.map1719306641746000000 0
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/test/config.test.js1720648070181999000 0
@@ -13701,7 +13761,7 @@
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/typed-array-buffer/test/index.js1719237019088000000 0
 83/home/maikel-mattiu/Documents/project-wordle/node_modules/htmlnano/lib/htmlnano.mjs1720682080493000000 0
 92/home/maikel-mattiu/Documents/project-wordle/node_modules/get-intrinsic/test/GetIntrinsic.js1719237016730999000 0
-70/home/maikel-mattiu/Documents/project-wordle/dist/favicon.09ab7678.png1720692919724157338 0
+70/home/maikel-mattiu/Documents/project-wordle/dist/favicon.09ab7678.png1720720134698724259 0
 112/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2024/ApplyStringOrNumericBinaryOperator.js1719237016558000000 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint/lib/rules/utils/fix-tracker.js1720647735020999000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/input-file-accept.js1720647735869999000 0
@@ -13875,6 +13935,7 @@
 84/home/maikel-mattiu/Documents/project-wordle/node_modules/language-tags/package.json1719306638923000000 0
 99/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/user-timing.js1720647735869999000 0
 80/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/wrapperChain.js1719306597654999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/ce/7c93491668fe04fb0cd1b5231cc6438dcce8251720719305833380171 0
 133/home/maikel-mattiu/Documents/project-wordle/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/multirepo/lerna.json1719237016431999000 0
 76/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/fp/pluck.js1719306597654999000 0
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/tsconfig-paths/src/register.ts1719306640124000000 0
@@ -14313,6 +14374,7 @@
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/core/src/loadDotEnv.js1720648070157999000 0
 104/home/maikel-mattiu/Documents/project-wordle/node_modules/htmlnano/lib/modules/removeAttributeQuotes.mjs1720682080493000000 0
 84/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/fp/wrapperLodash.js1719306597654999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/af/bf137b53a8e8cf13833d6d68b253eaf163d0a71720719305823379820 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/htmlnano/lib/modules/mergeScripts.mjs1720682080493000000 0
 92/home/maikel-mattiu/Documents/project-wordle/node_modules/@types/semver/functions/rsort.d.ts1719306654040999000 0
 109/home/maikel-mattiu/Documents/project-wordle/node_modules/htmlnano/lib/modules/deduplicateAttributeValues.cjs1720682080493000000 0
@@ -14808,7 +14870,7 @@
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/helpers/lib/helpers/jsx.js1719237007036999000 0
 73/home/maikel-mattiu/Documents/project-wordle/node_modules/prettier/cli.js1720682196200999000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/Script/Braille.js1719306662670000000 0
-72/home/maikel-mattiu/Documents/project-wordle/src/components/Game/Game.js1720715800814728429 0
+72/home/maikel-mattiu/Documents/project-wordle/src/components/Game/Game.js1720719531982343910 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/Script/Avestan.js1719306662670000000 0
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/regions/BI.js1720647735869999000 0
 113/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/Script/Psalter_Pahlavi.js1719306662670000000 0
@@ -15287,6 +15349,7 @@
 81/home/maikel-mattiu/Documents/project-wordle/node_modules/regjsparser/LICENSE.BSD1719306662769999000 0
 113/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/features/css-container-query-units.js1720647735869999000 0
 79/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/optimizer-swc1720682259518321485 1
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/a5/edf646475489b75b4678247ac1f4b600af827d1720719305968384910 0
 128/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/eslint-plugin/docs/rules/prefer-return-this-type.md1719306622200999000 0
 81/home/maikel-mattiu/Documents/project-wordle/node_modules/es-get-iterator/.github1720682262493735898 1
 114/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/General_Category/Symbol.js1719306662670000000 0
@@ -16019,6 +16082,7 @@
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/ajv/lib/dot/_limitLength.jst1719237010980999000 0
 120/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/General_Category/Other_Symbol.js1719306662670000000 0
 79/home/maikel-mattiu/Documents/project-wordle/node_modules/ajv/lib/dot/anyOf.jst1719237010980999000 0
+75/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/801720719837905176497 1
 121/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/eslint-plugin/dist/rules/no-namespace.js.map1719306622200999000 0
 87/home/maikel-mattiu/Documents/project-wordle/node_modules/ajv/lib/dot/propertyNames.jst1719237010980999000 0
 110/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/runtime/helpers/classPrivateMethodInitSpec.js1719237535796999000 0
@@ -17092,7 +17156,7 @@
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/test/collection.test.js1720648070181999000 0
 82/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2022/Type.js1719237016558000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/test/sourcemap.test.js1720648070181999000 0
-70/home/maikel-mattiu/Documents/project-wordle/src/components/.git/hooks1720701198389151218 1
+70/home/maikel-mattiu/Documents/project-wordle/src/components/.git/hooks1720701198397151696 1
 75/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/src1720682261905047780 1
 107/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-syntax-class-static-block/README.md1719306634690999000 0
 83/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/src/path.js1720648070181999000 0
@@ -17117,6 +17181,7 @@
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/@swc/helpers/cjs/_to_array.cjs1719237523624000000 0
 131/home/maikel-mattiu/Documents/project-wordle/node_modules/@typescript-eslint/scope-manager/dist/variable/ImplicitLibVariable.js.map1719306641746000000 0
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/src/relativeBundlePath.js1720648070181999000 0
+114/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects/41/018233380d3081a47f31045c39de5d4a83bba81720719837866175113 0
 85/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/src/config.js1720648070181999000 0
 98/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/utils/src/dependency-location.js1720648070181999000 0
 83/home/maikel-mattiu/Documents/project-wordle/node_modules/semver/functions/major.js1719306612365999000 0
@@ -17581,6 +17646,7 @@
 76/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/fp/array.js1719306597654999000 0
 95/home/maikel-mattiu/Documents/project-wordle/node_modules/@parcel/runtime-js/src/helpers/worker1720682264352755446 1
 74/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/fp/nth.js1719306597654999000 0
+79/home/maikel-mattiu/Documents/project-wordle/src/components/.git/COMMIT_EDITMSG1720719837901176355 0
 85/home/maikel-mattiu/Documents/project-wordle/node_modules/tsconfig-paths/src/index.ts1719306640124000000 0
 74/home/maikel-mattiu/Documents/project-wordle/node_modules/lodash/fp/zip.js1719306597654999000 0
 117/home/maikel-mattiu/Documents/project-wordle/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_dump.11720647841296000000 0
