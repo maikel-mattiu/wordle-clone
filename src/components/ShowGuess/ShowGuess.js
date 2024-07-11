@@ -5,6 +5,8 @@ import { range } from "../../utils"
 
 import Guess from "../Guess"
 
+import
+
 function ShowGuess({ guesses }) {
 	return (
 		<div className="guess-results">
@@ -12,6 +14,7 @@ function ShowGuess({ guesses }) {
 				<Guess
 					key={num}
 					value={guesses[num]?.guess || "" || guesses[num]?.[0]}
+					answer={a}
 				/>
 			))}
 		</div>

@@ -27695,7 +27695,10 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _utils = require("../../utils");
-function Guess({ value }) {
+var _gameHelpers = require("../../game-helpers");
+imp;
+function Guess({ value, answer }) {
+    const result = (0, _gameHelpers.checkGuess)(value, answer);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
         className: "guess",
         children: (0, _utils.range)(5).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -27703,12 +27706,12 @@ function Guess({ value }) {
                 children: value ? value[num] : undefined
             }, num, false, {
                 fileName: "src/components/Guess/Guess.js",
-                lineNumber: 9,
+                lineNumber: 12,
                 columnNumber: 5
             }, this))
     }, void 0, false, {
         fileName: "src/components/Guess/Guess.js",
-        lineNumber: 7,
+        lineNumber: 10,
         columnNumber: 3
     }, this);
 }
@@ -27722,7 +27725,49 @@ $RefreshReg$(_c, "Guess");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../utils":"en4he"}],"3huJa":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../utils":"en4he","../../game-helpers":"dWwK5"}],"dWwK5":[function(require,module,exports) {
+/**
+ * Thanks to Github user dylano for supplying a more-accurate
+ * solving algorithm!
+ */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "checkGuess", ()=>checkGuess);
+function checkGuess(guess, answer) {
+    // This constant is a placeholder that indicates we've successfully
+    // dealt with this character (it's correct, or misplaced).
+    const SOLVED_CHAR = "\u2713";
+    if (!guess) return null;
+    const guessChars = guess.toUpperCase().split("");
+    const answerChars = answer.split("");
+    const result = [];
+    // Step 1: Look for correct letters.
+    for(let i = 0; i < guessChars.length; i++)if (guessChars[i] === answerChars[i]) {
+        result[i] = {
+            letter: guessChars[i],
+            status: "correct"
+        };
+        answerChars[i] = SOLVED_CHAR;
+        guessChars[i] = SOLVED_CHAR;
+    }
+    // Step 2: look for misplaced letters. If it's not misplaced,
+    // it must be incorrect.
+    for(let i = 0; i < guessChars.length; i++){
+        if (guessChars[i] === SOLVED_CHAR) continue;
+        let status = "incorrect";
+        const misplacedIndex = answerChars.findIndex((char)=>char === guessChars[i]);
+        if (misplacedIndex >= 0) {
+            status = "misplaced";
+            answerChars[misplacedIndex] = SOLVED_CHAR;
+        }
+        result[i] = {
+            letter: guessChars[i],
+            status
+        };
+    }
+    return result;
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"3huJa":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "NUM_OF_GUESSES_ALLOWED", ()=>NUM_OF_GUESSES_ALLOWED);
