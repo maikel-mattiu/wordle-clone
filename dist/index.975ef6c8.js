@@ -27260,7 +27260,7 @@ function Game() {
     const addGuess = (guess)=>{
         const newGuess = {
             id: crypto.randomUUID(),
-            value: guess
+            guess: guess
         };
         setGuesses([
             ...guesses,
@@ -27644,20 +27644,23 @@ parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
+var _constants = require("../../constants");
+var _utils = require("../../utils");
+var _guess = require("../Guess");
+var _guessDefault = parcelHelpers.interopDefault(_guess);
 function ShowGuess({ guesses }) {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        class: "guess-results",
-        children: guesses.map(({ id, value })=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                class: "guess",
-                children: value
-            }, id, false, {
+        className: "guess-results",
+        children: (0, _utils.range)((0, _constants.NUM_OF_GUESSES_ALLOWED)).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _guessDefault.default), {
+                value: guesses[num]?.guess || "" || guesses[num]?.[0]
+            }, num, false, {
                 fileName: "src/components/ShowGuess/ShowGuess.js",
-                lineNumber: 7,
+                lineNumber: 12,
                 columnNumber: 5
             }, this))
     }, void 0, false, {
         fileName: "src/components/ShowGuess/ShowGuess.js",
-        lineNumber: 5,
+        lineNumber: 10,
         columnNumber: 3
     }, this);
 }
@@ -27671,7 +27674,61 @@ $RefreshReg$(_c, "ShowGuess");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cxSZo":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../Guess":"lokSL","../../constants":"3huJa","../../utils":"en4he"}],"lokSL":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "default", ()=>(0, _guessDefault.default));
+var _guess = require("./Guess");
+parcelHelpers.exportAll(_guess, exports);
+var _guessDefault = parcelHelpers.interopDefault(_guess);
+
+},{"./Guess":"u6UxK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"u6UxK":[function(require,module,exports) {
+var $parcel$ReactRefreshHelpers$424d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$424d.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
+var _utils = require("../../utils");
+function Guess({ value }) {
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+        className: "guess",
+        children: (0, _utils.range)(5).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                className: "cell",
+                children: value ? value[num] : undefined
+            }, num, false, {
+                fileName: "src/components/Guess/Guess.js",
+                lineNumber: 9,
+                columnNumber: 5
+            }, this))
+    }, void 0, false, {
+        fileName: "src/components/Guess/Guess.js",
+        lineNumber: 7,
+        columnNumber: 3
+    }, this);
+}
+_c = Guess;
+exports.default = Guess;
+var _c;
+$RefreshReg$(_c, "Guess");
+
+  $parcel$ReactRefreshHelpers$424d.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../utils":"en4he"}],"3huJa":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "NUM_OF_GUESSES_ALLOWED", ()=>NUM_OF_GUESSES_ALLOWED);
+const NUM_OF_GUESSES_ALLOWED = 6;
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"cxSZo":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "default", ()=>(0, _headerDefault.default));

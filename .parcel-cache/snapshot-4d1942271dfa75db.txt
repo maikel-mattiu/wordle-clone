@@ -1,4 +1,4 @@
-18736
+18739
 72/home/maikel-mattiu/Documents/project-wordle/src/components/.git/objects1720701198400151875 1
 69/home/maikel-mattiu/Documents/project-wordle/src/components/.git/HEAD1720701198398151755 0
 74/home/maikel-mattiu/Documents/project-wordle/src/components/.git/refs/tags1720701198398151755 1
@@ -836,7 +836,7 @@
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/SetValueInBuffer.js1719237016558000000 0
 88/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/IsCallable.js1719237016558000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/CompletionRecord.js1719237016558000000 0
-82/home/maikel-mattiu/Documents/project-wordle/src/components/ShowGuess/ShowGuess.js1720694342609280111 0
+82/home/maikel-mattiu/Documents/project-wordle/src/components/ShowGuess/ShowGuess.js1720718076302578738 0
 86/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/ToString.js1719237016558000000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/IteratorStep.js1719237016558000000 0
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/IsSharedArrayBuffer.js1719237016558000000 0
@@ -1428,6 +1428,7 @@
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/string-width/node_modules/ansi-regex/index.d.ts1719306620000999000 0
 96/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2021/IsConcatSpreadable.js1719237016558000000 0
 104/home/maikel-mattiu/Documents/project-wordle/node_modules/string-width/node_modules/ansi-regex/readme.md1719306620000999000 0
+74/home/maikel-mattiu/Documents/project-wordle/src/components/Guess/Guess.js1720717679438069375 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/IsExtensible.js1719237016558000000 0
 90/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2017/IteratorStep.js1719237016558000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/string-width/node_modules/ansi-regex1720682261553234840 1
@@ -1613,6 +1614,7 @@
 75/home/maikel-mattiu/Documents/project-wordle/node_modules/es-errors/eval.js1719237016723000000 0
 97/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2018/OrdinaryToPrimitive.js1719237016558000000 0
 74/home/maikel-mattiu/Documents/project-wordle/node_modules/es-errors/ref.js1719237016723000000 0
+74/home/maikel-mattiu/Documents/project-wordle/src/components/Guess/index.js1720715032706709409 0
 76/home/maikel-mattiu/Documents/project-wordle/node_modules/es-errors/range.js1719237016723000000 0
 94/home/maikel-mattiu/Documents/project-wordle/node_modules/es-abstract/2019/SetValueInBuffer.js1719237016558000000 0
 78/home/maikel-mattiu/Documents/project-wordle/node_modules/es-errors/index.d.ts1719237016723000000 0
@@ -2886,6 +2888,7 @@
 115/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/README.md1719306635928999000 0
 118/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/package.json1719306635928999000 0
 113/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/LICENSE1719306635928999000 0
+65/home/maikel-mattiu/Documents/project-wordle/src/components/Guess1720715032656704089 1
 126/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/tsconfig.tsbuildinfo1719306635928999000 0
 119/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator/tsconfig.json1719306635928999000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/plugin-transform-exponentiation-operator1720682259212485566 1
@@ -14805,7 +14808,7 @@
 91/home/maikel-mattiu/Documents/project-wordle/node_modules/@babel/helpers/lib/helpers/jsx.js1719237007036999000 0
 73/home/maikel-mattiu/Documents/project-wordle/node_modules/prettier/cli.js1720682196200999000 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/Script/Braille.js1719306662670000000 0
-72/home/maikel-mattiu/Documents/project-wordle/src/components/Game/Game.js1720694344951653143 0
+72/home/maikel-mattiu/Documents/project-wordle/src/components/Game/Game.js1720715800814728429 0
 105/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/Script/Avestan.js1719306662670000000 0
 89/home/maikel-mattiu/Documents/project-wordle/node_modules/caniuse-lite/data/regions/BI.js1720647735869999000 0
 113/home/maikel-mattiu/Documents/project-wordle/node_modules/regenerate-unicode-properties/Script/Psalter_Pahlavi.js1719306662670000000 0
