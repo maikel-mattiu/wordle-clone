@@ -27670,7 +27670,7 @@ function ShowGuess({ guesses, answer }) {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "guess-results",
         children: (0, _utils.range)((0, _constants.NUM_OF_GUESSES_ALLOWED)).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _guessDefault.default), {
-                value: guesses[num],
+                value: guesses[num]?.guess || "",
                 answer: answer
             }, num, false, {
                 fileName: "src/components/ShowGuess/ShowGuess.js",

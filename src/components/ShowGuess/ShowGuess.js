@@ -11,7 +11,7 @@ function ShowGuess({ guesses, answer }) {
 			{range(NUM_OF_GUESSES_ALLOWED).map((num) => (
 				<Guess
 					key={num}
-					value={guesses[num]}
+					value={guesses[num]?.guess || ""}
 					answer={answer}
 				/>
 			))}
