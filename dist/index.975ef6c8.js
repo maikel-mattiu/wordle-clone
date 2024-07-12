@@ -27247,6 +27247,7 @@ var _guessInput = require("../GuessInput");
 var _guessInputDefault = parcelHelpers.interopDefault(_guessInput);
 var _showGuess = require("../ShowGuess");
 var _showGuessDefault = parcelHelpers.interopDefault(_showGuess);
+var _constants = require("../../constants");
 var _s = $RefreshSig$();
 // Pick a random word on every pageload.
 const answer = (0, _utils.sample)((0, _data.WORDS));
@@ -27257,15 +27258,19 @@ console.info({
 function Game() {
     _s();
     const [guesses, setGuesses] = (0, _reactDefault.default).useState([]);
+    const [gameStatus, setGameStatus] = (0, _reactDefault.default).useState("running");
     const addGuess = (guess)=>{
         const newGuess = {
             id: crypto.randomUUID(),
             guess: guess
         };
-        setGuesses([
+        const newGuesses = [
             ...guesses,
             newGuess
-        ]);
+        ];
+        setGuesses(newGuesses);
+        if (guess.toUpperCase() === answer) setGameStatus("won");
+        else if (newGuesses.length === (0, _constants.NUM_OF_GUESSES_ALLOWED)) setGameStatus("lost");
     };
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
@@ -27274,20 +27279,21 @@ function Game() {
                 answer: answer
             }, void 0, false, {
                 fileName: "src/components/Game/Game.js",
-                lineNumber: 23,
+                lineNumber: 33,
                 columnNumber: 4
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _guessInputDefault.default), {
-                addGuess: addGuess
+                addGuess: addGuess,
+                gameStatus: gameStatus
             }, void 0, false, {
                 fileName: "src/components/Game/Game.js",
-                lineNumber: 27,
+                lineNumber: 37,
                 columnNumber: 4
             }, this)
         ]
     }, void 0, true);
 }
-_s(Game, "o1oJThhKU1yQYkTwv9Oq4sjxIZ4=");
+_s(Game, "uuALx4lvrabMTlnHQBYc449ZTgg=");
 _c = Game;
 exports.default = Game;
 var _c;
@@ -27298,7 +27304,7 @@ $RefreshReg$(_c, "Game");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../utils":"en4he","../../data":"9kapS","../GuessInput":"7KsIF","../ShowGuess":"flxXN","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"en4he":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../utils":"en4he","../../data":"9kapS","../GuessInput":"7KsIF","../ShowGuess":"flxXN","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../constants":"3huJa"}],"en4he":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "sample", ()=>sample);
@@ -27424,7 +27430,7 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _s = $RefreshSig$();
-function GuessInput({ addGuess }) {
+function GuessInput({ addGuess, gameStatus }) {
     _s();
     const [guess, setGuess] = (0, _reactDefault.default).useState("");
     function handleSubmit(event) {
@@ -27440,41 +27446,52 @@ function GuessInput({ addGuess }) {
         setGuess("");
     }
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
-            className: "guess-input-wrapper",
-            onSubmit: handleSubmit,
-            children: [
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("label", {
-                    htmlFor: "guess-input",
-                    children: "Enter guess:"
-                }, void 0, false, {
-                    fileName: "src/components/GuessInput/GuessInput.js",
-                    lineNumber: 23,
-                    columnNumber: 5
-                }, this),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
-                    required: true,
-                    minLength: 5,
-                    maxLength: 5,
-                    id: "guess-input",
-                    type: "text",
-                    value: guess,
-                    onChange: (event)=>{
-                        const newGuess = event.target.value.toUpperCase();
-                        setGuess(newGuess);
-                    }
-                }, void 0, false, {
-                    fileName: "src/components/GuessInput/GuessInput.js",
-                    lineNumber: 24,
-                    columnNumber: 5
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "src/components/GuessInput/GuessInput.js",
-            lineNumber: 19,
-            columnNumber: 4
-        }, this)
-    }, void 0, false);
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                className: "game-status",
+                children: gameStatus
+            }, void 0, false, {
+                fileName: "src/components/GuessInput/GuessInput.js",
+                lineNumber: 19,
+                columnNumber: 4
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("form", {
+                className: "guess-input-wrapper",
+                onSubmit: handleSubmit,
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("label", {
+                        htmlFor: "guess-input",
+                        children: "Enter guess:"
+                    }, void 0, false, {
+                        fileName: "src/components/GuessInput/GuessInput.js",
+                        lineNumber: 24,
+                        columnNumber: 5
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
+                        required: true,
+                        disabled: gameStatus === "won" || gameStatus === "lost",
+                        minLength: 5,
+                        maxLength: 5,
+                        id: "guess-input",
+                        type: "text",
+                        value: guess,
+                        onChange: (event)=>{
+                            const newGuess = event.target.value.toUpperCase();
+                            setGuess(newGuess);
+                        }
+                    }, void 0, false, {
+                        fileName: "src/components/GuessInput/GuessInput.js",
+                        lineNumber: 25,
+                        columnNumber: 5
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "src/components/GuessInput/GuessInput.js",
+                lineNumber: 20,
+                columnNumber: 4
+            }, this)
+        ]
+    }, void 0, true);
 }
 _s(GuessInput, "+yYR1kvazTqE9ExEudfqDe1IMJ8=");
 _c = GuessInput;
@@ -27653,7 +27670,7 @@ function ShowGuess({ guesses, answer }) {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "guess-results",
         children: (0, _utils.range)((0, _constants.NUM_OF_GUESSES_ALLOWED)).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _guessDefault.default), {
-                value: guesses[num]?.guess || "" || guesses[num]?.[0],
+                value: guesses[num],
                 answer: answer
             }, num, false, {
                 fileName: "src/components/ShowGuess/ShowGuess.js",
@@ -27697,35 +27714,48 @@ var prevRefreshSig = window.$RefreshSig$;
 $parcel$ReactRefreshHelpers$424d.prelude(module);
 
 try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+/* eslint-disable no-unreachable */ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _utils = require("../../utils");
 var _gameHelpers = require("../../game-helpers");
+function Cell({ letter, status }) {
+    const className = status ? `cell ${status}` : "cell";
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+        className: className,
+        children: letter
+    }, void 0, false, {
+        fileName: "src/components/Guess/Guess.js",
+        lineNumber: 9,
+        columnNumber: 9
+    }, this);
+}
+_c = Cell;
 function Guess({ value, answer }) {
     const result = (0, _gameHelpers.checkGuess)(value, answer);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
         className: "guess",
-        children: (0, _utils.range)(5).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                className: result.status,
-                children: value ? value[num] : undefined
+        children: (0, _utils.range)(5).map((num)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Cell, {
+                letter: result ? result[num].letter : undefined,
+                status: result ? result[num].status : undefined
             }, num, false, {
                 fileName: "src/components/Guess/Guess.js",
-                lineNumber: 11,
+                lineNumber: 17,
                 columnNumber: 5
             }, this))
     }, void 0, false, {
         fileName: "src/components/Guess/Guess.js",
-        lineNumber: 9,
+        lineNumber: 15,
         columnNumber: 3
     }, this);
 }
-_c = Guess;
+_c1 = Guess;
 exports.default = Guess;
-var _c;
-$RefreshReg$(_c, "Guess");
+var _c, _c1;
+$RefreshReg$(_c, "Cell");
+$RefreshReg$(_c1, "Guess");
 
   $parcel$ReactRefreshHelpers$424d.postlude(module);
 } finally {

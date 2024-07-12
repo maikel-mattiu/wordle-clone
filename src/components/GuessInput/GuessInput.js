@@ -1,6 +1,6 @@
 import React from "react"
 
-function GuessInput({ addGuess }) {
+function GuessInput({ addGuess, gameStatus }) {
 	const [guess, setGuess] = React.useState("")
 
 	function handleSubmit(event) {
@@ -16,6 +16,7 @@ function GuessInput({ addGuess }) {
 
 	return (
 		<>
+			<p className="game-status">{gameStatus}</p>
 			<form
 				className="guess-input-wrapper"
 				onSubmit={handleSubmit}
@@ -23,6 +24,7 @@ function GuessInput({ addGuess }) {
 				<label htmlFor="guess-input">Enter guess:</label>
 				<input
 					required
+					disabled={gameStatus === "won" || gameStatus === "lost"}
 					minLength={5}
 					maxLength={5}
 					id="guess-input"
