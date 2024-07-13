@@ -1,6 +1,11 @@
 import React from "react"
 
 function GuessInput({ addGuess, gameStatus }) {
+	// This component is responsible for the input of the user guess.
+	// It checks if the user has entered a 5-letter word.
+	// It then calls the addGuess function to add the guess to the guesses array.
+	// It also disables the input field if the game is won or lost.
+
 	const [guess, setGuess] = React.useState("")
 
 	function handleSubmit(event) {
