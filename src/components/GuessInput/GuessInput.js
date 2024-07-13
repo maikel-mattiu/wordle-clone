@@ -21,7 +21,7 @@ function GuessInput({ addGuess, gameStatus }) {
 
 	return (
 		<>
-			<p className="game-status">{gameStatus}</p>
+		{/*<p className="game-status">{gameStatus}</p>*/}
 			<form
 				className="guess-input-wrapper"
 				onSubmit={handleSubmit}
